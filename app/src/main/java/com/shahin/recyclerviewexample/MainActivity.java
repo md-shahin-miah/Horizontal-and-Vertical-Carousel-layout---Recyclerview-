@@ -9,6 +9,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.shahin.recyclerviewexample.adapter.MainAdapter;
 import com.shahin.recyclerviewexample.views.RecyclerviewActivity;
+import com.yotech.recyclerviewexample.R;
 
 public class MainActivity extends AppCompatActivity implements MainAdapter.MainItemClickListener {
 
@@ -41,7 +42,8 @@ public class MainActivity extends AppCompatActivity implements MainAdapter.MainI
 
         }
 
-
+//shahin
+        //added new for pull req
     }
 
     private void intentForCarousel(String value) {
