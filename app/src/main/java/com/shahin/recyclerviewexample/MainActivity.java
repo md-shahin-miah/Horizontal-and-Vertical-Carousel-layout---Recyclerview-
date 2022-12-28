@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity implements MainAdapter.MainI
 
 //shahin
         //added new for pull req
+        //hello bangladesh
     }
 
     private void intentForCarousel(String value) {
