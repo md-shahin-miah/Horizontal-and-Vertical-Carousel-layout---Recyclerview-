@@ -1,7 +1,5 @@
 # RecyclerviewExample
 
-## Screenshots
-
 #### Animated recyclerview
 ![animated](https://user-images.githubusercontent.com/68494371/209796283-46d0b571-a64e-4129-9883-00d01be0803f.PNG)
 #### Customisable Carousel recyclerview 
